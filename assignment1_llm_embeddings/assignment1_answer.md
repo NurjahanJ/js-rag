@@ -65,7 +65,4 @@ BERT’s bidirectional pre-training (Masked Language Modeling) allows the model 
   - **Best Fit**: Local SBERT
   - **Reason**: Cost-free, private, flexible, suitable for offline use, manageable on personal hardware.
 
----
-
-**End of Assignment 1 Answers**
 
